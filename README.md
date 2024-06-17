@@ -7,7 +7,5 @@
   </a>
 </div>
 
-<div align="center">
 - Used FaceFusion Desktop and Colab to render the clips and edited them in Premiere Pro.
 - For personal use only, not for commercial purposes.
-</div>
