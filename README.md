@@ -38,6 +38,10 @@ Clips from IVE 'I AM' MV
   <img src="https://github.com/Pwang0722/test/assets/136808262/356ce218-8b21-400c-9541-5bc99ee15de8" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/test/assets/136808262/a06dfed6-629d-4332-b3f4-4abc7da7f529" width="35%" style="display:inline-block;">
 </p>
+<p align="center">
+  <img src="https://github.com/Pwang0722/test/assets/136808262/09db1dd2-bda1-4f6f-9ce1-ad942113766b" width="35%" style="display:inline-block;">
+  <img src="https://github.com/Pwang0722/test/assets/136808262/9f4fa709-8012-4cac-855a-848302fbc678" width="35%" style="display:inline-block;">
+</p>
 
 
 
