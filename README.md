@@ -23,7 +23,6 @@
 Clips from the K-Drama "Tale of the Nine Tailed".
 </div>
 
----
 
 <p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/a07f8f07-e2df-477e-b026-8edd5778eb60" width="45%" style="display:inline-block">
