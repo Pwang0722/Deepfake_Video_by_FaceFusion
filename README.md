@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-Clips from the K-Drama "Tale of the Nine Tailed".
+Clips from the K-Drama "Tale of the Nine Tailed".<br>
 </div>
 <p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/a07f8f07-e2df-477e-b026-8edd5778eb60" width="35%" style="display:inline-block">
