@@ -1,4 +1,4 @@
-![image](https://github.com/Pwang0722/test/assets/136808262/566b7e14-35f6-439b-a4d6-1ad1464177cc)<h2 align="center">Deepfakes Video by Facefusion</h1>
+<h2 align="center">Deepfakes Video by Facefusion</h1>
 </div>
 <div align="center">
 ↓↓↓ CLICK IMAGE TO WATCH ↓↓↓
