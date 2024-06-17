@@ -7,7 +7,7 @@
   </a>
 </div>
 
-- Used [FaceFusion](https://docs.facefusion.io/) Desktop and Colab to render the clips and edited them in Premiere Pro.
+- Used [FaceFusion](https://docs.facefusion.io/) Desktop and [Colab](https://colab.research.google.com/github/ardha27/FaceFusion-Colab/blob/main/FaceFusion_Colab.ipynb) to render the clips and edited them in Premiere Pro.
 - For personal use only, not for commercial purposes.
 
 <p float="left">
