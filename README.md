@@ -1,4 +1,4 @@
-<h2 align="center">deepfake video by Facefusion</h1>
+<h2 align="center">Deepfakes Video by Facefusion</h1>
 </div>
 
 <div align="center">
