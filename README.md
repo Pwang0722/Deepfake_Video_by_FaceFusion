@@ -8,7 +8,10 @@
     <img src="https://img.youtube.com/vi/bPXr-vtWd2U/0.jpg" alt="Watch the video">
   </a>
 </div>
-
+<div align="center">
+↑↑↑ CLICK IMAGE TO WATCH ↑↑↑
+  
+</div>
 ---
 
 - Used [FaceFusion](https://docs.facefusion.io/) Desktop and [Colab](https://colab.research.google.com/github/ardha27/FaceFusion-Colab/blob/main/FaceFusion_Colab.ipynb) to render the clips and edited them in Premiere Pro.
