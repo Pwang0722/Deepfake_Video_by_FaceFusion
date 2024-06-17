@@ -1,4 +1,4 @@
-<h2 align="center">Deepfakes Video by FaceFusion</h1>
+<h2 align="center">Deepfake Video by FaceFusion</h1>
 </div>
 <div align="center">
 ↓↓↓ CLICK IMAGE TO WATCH ↓↓↓
