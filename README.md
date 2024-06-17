@@ -7,10 +7,13 @@
   </a>
 </div>
 
-- Used [FaceFusion]([king%20Sheet%20Template%20(password-1234).xlsm](https://docs.facefusion.io/)) Desktop and Colab to render the clips and edited them in Premiere Pro.
+- Used [FaceFusion](https://docs.facefusion.io/) Desktop and Colab to render the clips and edited them in Premiere Pro.
 - For personal use only, not for commercial purposes.
 
-![image](https://github.com/Pwang0722/test/assets/136808262/a07f8f07-e2df-477e-b026-8edd5778eb60)
-![image](https://github.com/Pwang0722/test/assets/136808262/3be2995f-2cfe-4ecd-b250-105c3d930de9)
+<p float="left">
+  <img src="https://github.com/Pwang0722/test/assets/136808262/a07f8f07-e2df-477e-b026-8edd5778eb60" width="45%" />
+  <img src="https://github.com/Pwang0722/test/assets/136808262/3be2995f-2cfe-4ecd-b250-105c3d930de9" width="45%" /> 
+</p>
+
 
 
