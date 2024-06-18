@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-Clips from the K-Drama 'Tale of the Nine Tailed'
+K-Drama Tale of the Nine Tailed
 </div>
 <p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/a07f8f07-e2df-477e-b026-8edd5778eb60" width="35%" style="display:inline-block;">
@@ -32,7 +32,7 @@ Clips from the K-Drama 'Tale of the Nine Tailed'
  <p style="margin-bottom: 20px;"></p>
 
 <div align="center">
-Clips from IVE 'I AM' MV
+MV IVE I AM
 </div>
 <p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/356ce218-8b21-400c-9541-5bc99ee15de8" width="35%" style="display:inline-block;">
