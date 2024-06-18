@@ -34,11 +34,6 @@ K-Drama Tale of the Nine Tailed
 <div align="center">
 MV IVE I AM
 </div>
-
-<p align="center">
-  <img src="" width="35%" style="display:inline-block;">
-  <img src="" width="35%" style="display:inline-block;">
-</p>
 <p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/356ce218-8b21-400c-9541-5bc99ee15de8" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/test/assets/136808262/a06dfed6-629d-4332-b3f4-4abc7da7f529" width="35%" style="display:inline-block;">
