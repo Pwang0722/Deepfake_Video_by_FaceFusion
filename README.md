@@ -1,7 +1,7 @@
 <h2 align="center">Deepfake Video by FaceFusion</h1>
 </div>
 <div align="center">
-↓↓↓ CLICK IMAGE TO WATCH ↓↓↓
+↓↓↓ WATCH FULL VIDEO ↓↓↓
 </div>
 <div align="center">
   <a href="https://drive.google.com/file/d/1NNEGFWzZyVxgcNPbppts-q4He07HkFVr/view?usp=drive_link">
@@ -9,7 +9,7 @@
   </a>
 </div>
 <div align="center">
-↑↑↑ CLICK IMAGE TO WATCH ↑↑↑ 
+↑↑↑ WATCH FULL VIDEO ↑↑↑ 
 </div>
 
 ---
