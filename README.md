@@ -23,17 +23,22 @@
 K-Drama Tale of the Nine Tailed
 </div>
 <p align="center">
-  <img src="https://github.com/Pwang0722/test/assets/136808262/a07f8f07-e2df-477e-b026-8edd5778eb60" width="35%" style="display:inline-block;">
-  <img src="https://github.com/Pwang0722/test/assets/136808262/3be2995f-2cfe-4ecd-b250-105c3d930de9" width="35%" style="display:inline-block;">
-</p>
-<p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/4015e22b-0823-479b-8692-fbed8533e2eb" width="35%" style="display:inline-block">
   <img src="https://github.com/Pwang0722/test/assets/136808262/69de4394-590a-45fb-951d-6bcf6eed29ae" width="35%" style="display:inline-block">
- <p style="margin-bottom: 20px;"></p>
+</p>
+<p align="center">
+  <img src="https://github.com/Pwang0722/test/assets/136808262/a07f8f07-e2df-477e-b026-8edd5778eb60" width="35%" style="display:inline-block;">
+  <img src="https://github.com/Pwang0722/test/assets/136808262/3be2995f-2cfe-4ecd-b250-105c3d930de9" width="35%" style="display:inline-block;">
+<p style="margin-bottom: 20px;"></p>
 
 <div align="center">
 MV IVE I AM
 </div>
+
+<p align="center">
+  <img src="" width="35%" style="display:inline-block;">
+  <img src="" width="35%" style="display:inline-block;">
+</p>
 <p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/356ce218-8b21-400c-9541-5bc99ee15de8" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/test/assets/136808262/a06dfed6-629d-4332-b3f4-4abc7da7f529" width="35%" style="display:inline-block;">
