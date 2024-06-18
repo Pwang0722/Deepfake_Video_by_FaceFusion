@@ -35,6 +35,10 @@ K-Drama Tale of the Nine Tailed
 MV IVE I AM
 </div>
 <p align="center">
+  <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/134f732c-f2c7-40c7-b6c2-cd1f421d2597" width="35%" style="display:inline-block;">
+  <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/63c12d31-c585-4d8d-a6f2-ba2f3937a07b" width="35%" style="display:inline-block;">
+</p>
+<p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/356ce218-8b21-400c-9541-5bc99ee15de8" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/test/assets/136808262/a06dfed6-629d-4332-b3f4-4abc7da7f529" width="35%" style="display:inline-block;">
 </p>
@@ -42,6 +46,7 @@ MV IVE I AM
   <img src="https://github.com/Pwang0722/test/assets/136808262/09db1dd2-bda1-4f6f-9ce1-ad942113766b" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/test/assets/136808262/9f4fa709-8012-4cac-855a-848302fbc678" width="35%" style="display:inline-block;">
 </p>
+
 
 
 
