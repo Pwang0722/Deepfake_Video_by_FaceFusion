@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href="https://drive.google.com/file/d/1NNEGFWzZyVxgcNPbppts-q4He07HkFVr/view?usp=drive_link">
-    <img src="https://img.youtube.com/vi/bPXr-vtWd2U/0.jpg" alt="Watch the video">
+    <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/480de8e3-d010-48ff-8b8b-9c5e204e1bb2">
   </a>
 </div>
 <div align="center">
