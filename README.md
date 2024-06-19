@@ -67,7 +67,7 @@ CF
   <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/155e8539-3f15-4d56-b59a-d22bba76bf2d" width="35%" style="display:inline-block;">
 </p>
 <p align="center">
-  <img src="" width="35%" style="display:inline-block;">
+  <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/8ce6c252-c74e-40b2-a90b-f71550147685" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/a08054bf-8923-4256-b8ff-c35afd95446f" width="35%" style="display:inline-block;">
 
 
