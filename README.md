@@ -65,6 +65,8 @@ CF
 <p align="center">
   <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/0e2b2ceb-3784-44a4-baa2-5407c2988671" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/155e8539-3f15-4d56-b59a-d22bba76bf2d" width="35%" style="display:inline-block;">
+<p style="margin-bottom: 20px;"></p>
+
 
 
 
