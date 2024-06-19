@@ -41,11 +41,7 @@ MV IVE I AM
 <p align="center">
   <img src="https://github.com/Pwang0722/test/assets/136808262/356ce218-8b21-400c-9541-5bc99ee15de8" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/test/assets/136808262/a06dfed6-629d-4332-b3f4-4abc7da7f529" width="35%" style="display:inline-block;">
-</p>
-<p align="center">
-  <img src="https://github.com/Pwang0722/test/assets/136808262/09db1dd2-bda1-4f6f-9ce1-ad942113766b" width="35%" style="display:inline-block;">
-  <img src="https://github.com/Pwang0722/test/assets/136808262/9f4fa709-8012-4cac-855a-848302fbc678" width="35%" style="display:inline-block;">
-</p>
+<p style="margin-bottom: 20px;"></p>
 
 <div align="center">
 MV BTS DNA
@@ -53,7 +49,14 @@ MV BTS DNA
 <p align="center">
   <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/4b58f159-d175-4f20-a956-475f86a7e4c8" width="35%" style="display:inline-block;">
   <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/1b01d760-ea53-4413-bc3c-c5cea9687d2a" width="35%" style="display:inline-block;">
-</p>
+<p style="margin-bottom: 20px;"></p>
 
+<div align="center">
+MV PSY New Face
+</div>
+<p align="center">
+  <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/1b004483-f225-4a25-98dc-c265cbf7b18d" width="35%" style="display:inline-block;">
+  <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/6f919c66-5fd5-43b6-97e6-5fe9dadaef82" width="35%" style="display:inline-block;">
+<p style="margin-bottom: 20px;"></p>
 
 
