@@ -4,7 +4,7 @@
 ↓↓↓ WATCH FULL VIDEO ↓↓↓
 </div>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=bPXr-vtWd2U">
+  <a href="https://youtu.be/bPXr-vtWd2U">
     <img src="https://github.com/Pwang0722/Deepfake_Video_by_FaceFusion/assets/136808262/480de8e3-d010-48ff-8b8b-9c5e204e1bb2">
   </a>
 </div>
